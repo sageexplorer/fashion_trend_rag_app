@@ -1,0 +1,43 @@
+======================================================================
+QUESTION 1: What colors should I wear for 2023 fashion trends?
+======================================================================
+
+--- BASIC COMPLETION (without custom data) ---
+The predicted fashion trends for 2023 include bold and vibrant colors, as well as earthy and natural tones. Some specific colors that are expected to be popular are:
+
+1. Electric Blue - This bright shade of blue is expected to be a major trend in 2023, adding a bold and eye-catching pop of color to any outfit.
+
+2. Ultra Violet - As the Pantone Color of the Year for 2023, this rich and regal shade of purple is predicted to be a popular choice for fashionistas.
+
+3. Mustard - This warm and sunny shade of yellow is expected to continue its popularity in 2023, adding a touch of brightness to any look.
+
+4. Emerald Green - This deep and luxurious shade of green is expected to make a comeback in 2023, adding a touch of elegance to any outfit.
+
+5. Burnt Orange - This warm and earthy shade of orange is predicted to be a popular choice in 2023, adding a touch of warmth and coziness to fall and winter outfits.
+
+6. Soft Pink - This delicate and feminine shade of pink is expected to be a major trend in 2023, adding a romantic and whimsical touch to outfits.
+
+7. Rich Brown - This warm and earthy tone is predicted to be a popular choice in 2023, adding a touch of sophistication and grounding to any outfit.
+
+8. Lavender - This soft and serene shade of purple is expected to be a popular choice in 2023, adding a calming and dreamy vibe to outfits.
+
+9. Terracotta - This warm and earthy tone is expected to continue its popularity in 2023, adding a touch of rustic charm to outfits.
+
+10. Metallics - Metallic colors such as silver, gold, and rose gold are predicted to be a major trend in 2023, adding a touch of glamour and shine to any look.
+
+--- CUSTOM COMPLETION (with 2023 fashion trends data) ---
+Cobalt blue, red, and metallic shades such as gold, bronze, and rose gold. Additionally, Pantone's Viva Magenta is also a recommended color to pair with cobalt blue.
+======================================================================
+
+
+QUESTION 2: What type of pants are trending in 2023?
+======================================================================
+
+--- BASIC COMPLETION (without custom data) ---
+It is difficult to predict exactly what type of pants will be trending in 2023, as fashion trends are constantly changing and evolving. However, some current trends that may continue into 2023 include high-waisted pants, wide-leg pants, and cargo pants. Sustainability and comfort may also be important factors in future pant trends. Some possible new trends for 2023 could include futuristic or tech-inspired pants, bold prints and patterns, and unique silhouettes such as asymmetrical or exaggerated shapes. Ultimately, the popular pants in 2023 will likely depend on a combination of current fashion trends, consumer preferences, and innovative designs from fashion designers.
+
+--- CUSTOM COMPLETION (with 2023 fashion trends data) ---
+Cargo pants.
+======================================================================
+
+
