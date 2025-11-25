@@ -80,8 +80,8 @@ openai.api_key = "YOUR_API_KEY"
    - Question demonstrations
 
 ## Results
-
-The project demonstrates clear performance improvements when using custom data:
+```Actual results are shown in answers.txt file. ```
+The project demonstrates clear performance improvements when using custom data: 
 
 ### Question 1: "What colors should I wear for 2023 fashion trends?"
 
